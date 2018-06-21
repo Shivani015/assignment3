@@ -105,7 +105,7 @@
         android:id="@+id/editText5"
         android:layout_width="214dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="280dp"
+        android:layout_marginBottom="288dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="116dp"
         android:layout_marginRight="8dp"
@@ -185,7 +185,7 @@
         android:layout_marginTop="8dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="State"
+        android:text="states"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -193,7 +193,7 @@
         app:layout_constraintVertical_bias="0.597" />
 
     <Spinner
-        android:id="@+id/cities"
+        android:id="@+id/states"
         android:layout_width="0dp"
         android:layout_height="25dp"
         android:layout_marginBottom="8dp"
